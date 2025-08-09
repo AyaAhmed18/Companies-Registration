@@ -3210,11 +3210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Tasks\\vacancyTask\\vacancyTask\\CompanyTask.csproj",
+      "projectUniqueName": "E:\\Tasks\\New folder\\Companies-Registration\\vacancyTask\\vacancyTask\\CompanyTask.csproj",
       "projectName": "CompanyTask",
-      "projectPath": "E:\\Tasks\\vacancyTask\\vacancyTask\\CompanyTask.csproj",
+      "projectPath": "E:\\Tasks\\New folder\\Companies-Registration\\vacancyTask\\vacancyTask\\CompanyTask.csproj",
       "packagesPath": "C:\\Users\\GAMA\\.nuget\\packages\\",
-      "outputPath": "E:\\Tasks\\vacancyTask\\vacancyTask\\obj\\",
+      "outputPath": "E:\\Tasks\\New folder\\Companies-Registration\\vacancyTask\\vacancyTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3235,11 +3235,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "E:\\Tasks\\vacancyTask\\Context\\Context.csproj": {
-              "projectPath": "E:\\Tasks\\vacancyTask\\Context\\Context.csproj"
+            "E:\\Tasks\\New folder\\Companies-Registration\\vacancyTask\\Context\\Context.csproj": {
+              "projectPath": "E:\\Tasks\\New folder\\Companies-Registration\\vacancyTask\\Context\\Context.csproj"
             },
-            "E:\\Tasks\\vacancyTask\\Services\\Services.csproj": {
-              "projectPath": "E:\\Tasks\\vacancyTask\\Services\\Services.csproj"
+            "E:\\Tasks\\New folder\\Companies-Registration\\vacancyTask\\Services\\Services.csproj": {
+              "projectPath": "E:\\Tasks\\New folder\\Companies-Registration\\vacancyTask\\Services\\Services.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e6tc/7/QoUs=",
+  "dgSpecHash": "lBCeth5P+Cc=",
   "success": true,
-  "projectFilePath": "E:\\Tasks\\vacancyTask\\vacancyTask\\CompanyTask.csproj",
+  "projectFilePath": "E:\\Tasks\\New folder\\Companies-Registration\\vacancyTask\\vacancyTask\\CompanyTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GAMA\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\GAMA\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

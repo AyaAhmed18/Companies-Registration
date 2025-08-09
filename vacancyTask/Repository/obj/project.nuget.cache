@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rd7EAt37yRc=",
+  "dgSpecHash": "qkZPN3WKw3s=",
   "success": true,
-  "projectFilePath": "E:\\Tasks\\vacancyTask\\Repository\\Repository.csproj",
+  "projectFilePath": "E:\\Tasks\\New folder\\Companies-Registration\\vacancyTask\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GAMA\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.7\\microsoft.entityframeworkcore.9.0.7.nupkg.sha512",
     "C:\\Users\\GAMA\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.7\\microsoft.entityframeworkcore.abstractions.9.0.7.nupkg.sha512",

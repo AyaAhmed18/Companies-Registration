@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5dOf64g/GMU=",
+  "dgSpecHash": "aD7ofdDSxRQ=",
   "success": true,
-  "projectFilePath": "E:\\Tasks\\vacancyTask\\Company.Core\\Company.DTO.csproj",
+  "projectFilePath": "E:\\Tasks\\New folder\\Companies-Registration\\vacancyTask\\Company.Core\\Company.DTO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GAMA\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\GAMA\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",

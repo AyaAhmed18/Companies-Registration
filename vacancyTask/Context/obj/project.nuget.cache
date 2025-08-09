@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6pgtlY+zO/I=",
+  "dgSpecHash": "a57PNGcLjF4=",
   "success": true,
-  "projectFilePath": "E:\\Tasks\\vacancyTask\\Context\\Context.csproj",
+  "projectFilePath": "E:\\Tasks\\New folder\\Companies-Registration\\vacancyTask\\Context\\Context.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GAMA\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\GAMA\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
