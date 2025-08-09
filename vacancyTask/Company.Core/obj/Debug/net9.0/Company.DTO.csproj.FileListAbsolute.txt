@@ -1,0 +1,12 @@
+E:\Tasks\vacancyTask\Company.Core\bin\Debug\net9.0\Company.DTO.deps.json
+E:\Tasks\vacancyTask\Company.Core\bin\Debug\net9.0\Company.DTO.dll
+E:\Tasks\vacancyTask\Company.Core\bin\Debug\net9.0\Company.DTO.pdb
+E:\Tasks\vacancyTask\Company.Core\obj\Debug\net9.0\Company.DTO.csproj.AssemblyReference.cache
+E:\Tasks\vacancyTask\Company.Core\obj\Debug\net9.0\Company.DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tasks\vacancyTask\Company.Core\obj\Debug\net9.0\Company.DTO.AssemblyInfoInputs.cache
+E:\Tasks\vacancyTask\Company.Core\obj\Debug\net9.0\Company.DTO.AssemblyInfo.cs
+E:\Tasks\vacancyTask\Company.Core\obj\Debug\net9.0\Company.DTO.csproj.CoreCompileInputs.cache
+E:\Tasks\vacancyTask\Company.Core\obj\Debug\net9.0\Company.DTO.dll
+E:\Tasks\vacancyTask\Company.Core\obj\Debug\net9.0\refint\Company.DTO.dll
+E:\Tasks\vacancyTask\Company.Core\obj\Debug\net9.0\Company.DTO.pdb
+E:\Tasks\vacancyTask\Company.Core\obj\Debug\net9.0\ref\Company.DTO.dll
